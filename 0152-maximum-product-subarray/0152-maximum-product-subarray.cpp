@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             prod*=nums[i];
             maxans = max(maxans,prod);
-            if(prod<0){
+            if(prod==0){
                 prod=1;
             }
         }
@@ -15,7 +15,7 @@ public:
         for(int i=n-1;i>=0;i--){
             prod*=nums[i];
             maxans = max(maxans,prod);
-            if(prod<0){
+            if(prod==0){
                 prod=1;
             }
         }
