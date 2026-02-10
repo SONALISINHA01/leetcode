@@ -10,7 +10,7 @@ public:
         dist[src]= 0;
 
         queue<pair<int,int>> q;
-        q.push_back({src,0});
+        q.push({src,0});
 
         int stops=0;
         while(stops<=k && !q.empty()){
@@ -23,7 +23,7 @@ public:
                     int price = it.second;
                     if(cost+price < dist[next]){
                         dist[next]=cost+price;
-                        q.push({next,price});
+                        q.push({next,price+cost});
                     }
                 }
             }
