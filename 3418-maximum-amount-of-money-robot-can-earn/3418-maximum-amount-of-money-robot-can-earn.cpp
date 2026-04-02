@@ -3,7 +3,7 @@ public:
     int maximumAmount(vector<vector<int>>& coins) {
         int n = coins.size();
         int m = coins[0].size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m,vector<int>(3,0-1e9)));
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m,vector<int>(3,-1e9)));
         dp[0][0][1]=dp[0][0][2]=0;//if it is negative we neutralized it then it will be zero
         dp[0][0][0]=coins[0][0];// if it is negative we dont neutralized then negative value, otherwise positive value wowwww!
         for(int i =0;i<n;i++){
