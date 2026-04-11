@@ -2,22 +2,20 @@ class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
         int n = nums.size();
-        int ans = n + 1;
-
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                if (nums[i] != nums[j]) {
-                    continue;
+        int ans = INT_MAX;
+        for(int i =0;i<n-2;i++){
+            int num=nums[i];
+            int count =0;
+            for(int j = i+1;j<n;j++){
+                if(nums[j]==num){
+                    count++;
                 }
-                for (int k = j + 1; k < n; k++) {
-                    if (nums[j] == nums[k]) {
-                        ans = std::min(ans, k - i);
-                        break;
-                    }
+                if(count==2){
+                    ans=min(ans,2*(j-i));
                 }
             }
         }
-
-        return ans == n + 1 ? -1 : ans * 2;
+        if(ans==INT_MAX) return -1;
+        return ans;
     }
 };
