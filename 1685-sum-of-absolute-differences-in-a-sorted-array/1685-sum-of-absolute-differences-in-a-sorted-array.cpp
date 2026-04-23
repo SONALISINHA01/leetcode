@@ -1,4 +1,3 @@
-#define ll long long
 class Solution {
 public:
     vector<int> getSumAbsoluteDifferences(vector<int>& nums) {
