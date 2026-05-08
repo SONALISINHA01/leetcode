@@ -1,18 +1,13 @@
+// Move Zeroes — O(n) Two Pointers In-Place
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ans(n,0);
-        int j=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=0){
-                ans[j]=nums[i];
-                j++;
+        int insertPos = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] != 0) {
+                swap(nums[i], nums[insertPos]);
+                insertPos++;
             }
         }
-        for(int i=0;i<n;i++){
-            nums[i]=ans[i];
-        }
-
     }
 };
