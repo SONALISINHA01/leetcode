@@ -1,57 +1,33 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        int n = nums.size();
-
-        priority_queue<int> pq;
-        unordered_map<int, int> mp;
-        vector<int> ans;
-
-        for (int i = 0; i < k; i++) {
-            mp[nums[i]]++;
-
-            // WRONG:
-            // if(mp[nums[i]]==1){
-            //     pq.push(nums[i]);
-            // }
-
-            // # Push every occurrence
-            pq.push(nums[i]);
-        }
-
-        // while (!pq.empty() && mp[pq.top()] == 0) {
-        //     pq.pop();
-        // }
-
-        ans.push_back(pq.top());
-
-        for (int i = k; i < n; i++) {
-
-            // WRONG:
-            // if(pq.top()==nums[i]){
-            //
-            // }else{
-            //     mp[nums[i-k]]--;
-            //     mp[nums[i]]++;
-            //     if(mp[nums[i]]==0){
-            //         pq.push(nums[i]);
-            //     }
-            // }
-
-            // # Always update window
-            mp[nums[i - k]]--;
-            mp[nums[i]]++;
-
-            // # Push every incoming element
-            pq.push(nums[i]);
-
-            while (!pq.empty() && mp[pq.top()] == 0) {
-                pq.pop();
+        deque<int> dq;
+        vector<int> result;
+        for(int i =0;i<k;i++){
+            while(!dq.empty() && dq.back()<nums[i]){
+                dq.pop_back();
             }
-
-            ans.push_back(pq.top());
+            if(!dq.empty() && nums[i]>=dq.front()){
+                dq.push_front(nums[i]);
+            }else{
+                dq.push_back(nums[i]);
+            }
         }
-
-        return ans;
+        result.push_back(dq.front());
+        for(int i=k;i<nums.size();i++){
+            if(nums[i-k]==dq.front()){
+                dq.pop_front();
+            }
+            while(!dq.empty() && dq.back()<nums[i]){
+                dq.pop_back();
+            }
+            if(!dq.empty() && nums[i]>=dq.front()){
+                dq.push_front(nums[i]);
+            }else{
+                dq.push_back(nums[i]);
+            }
+            result.push_back(dq.front());
+        }
+        return result;
     }
 };
