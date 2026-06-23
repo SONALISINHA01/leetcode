@@ -2,38 +2,23 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         int n = nums.size();
-        //hiiiiii babyyyyyyyyyyyyyyyyyyyyy
-        vector<int> prefsum(n);//prefix sum vector
-        prefsum[0]=nums[0];
-
+        vector<int> prefixsum(n,0);
+        prefixsum[0]=nums[0];
         for(int i =1;i<n;i++){
-            prefsum[i]=prefsum[i-1]+nums[i];
+            prefixsum[i]=prefixsum[i-1]+nums[i];
         }
-        unordered_map<int,int> mp;
-
+        unordered_map<int,int> count;
         int ans =0;
-        vector<int> rem(n);//lolololololololoollooloolll
-        // awww mera bechara babyyy
-        // good job
-        //love youuuuuu
-        // i dont want thisss
-        // when i had already made a different vector just to store this shit why did you delete thatt 
-        // motherfuckerrr
-        for(int i=0;i<n;i++){
-            rem[i]=prefsum[i]%k;//lolololol
-        }
+        count[0]=1;
         for(int i =0;i<n;i++){
-        //remainder and processing while updating else mp map will contain information/value of all , same mistake you did in last problem too . Do  
-            if(rem[i]<0){ rem[i]+=k;}//baby remainder kbhi negative hoga???
-            if(rem[i]==0){
-                ans++;
+            if(prefixsum[i]<0){
+                prefixsum[i]=((prefixsum[i]%k)+k)%k;
             }
-            if(mp.find(rem[i])!=mp.end()){
-                ans+=mp[rem[i]];
+            if(count.find(prefixsum[i]%k)!=count.end()){
+                ans+=count[prefixsum[i]%k];
             }
-            mp[rem[i]]++;
+            count[prefixsum[i]%k]++;
         }
         return ans;
     }
 };
-//done . signing off stay here you little brat
