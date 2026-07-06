@@ -11,23 +11,27 @@ public:
                 }
             }
         }
-        vector<int> canbe;
+        int cur=-1,prev=-1;
+        int m=INT_MAX;
+        int anx=-1,any=-1;
         for(int i = left;i<=right;i++){
             if(prime[i]){
-                canbe.push_back(i);
+                if(cur!=-1){
+                    prev=cur;
+                    cur=i;
+                    if(m>(cur-prev)){
+                        m = cur-prev;
+                        anx=prev;
+                        any=cur;
+                    }
+                }
+                cur=i;
+
             }
         }
-        if(canbe.size()<=1){
+        if(prev==-1){
             return {-1,-1};
         }
-        int mi= INT_MAX, x=-1,y=-1;
-        for(int i=1;i<canbe.size();i++){
-            if(mi>(canbe[i]-canbe[i-1])){
-                mi = canbe[i]-canbe[i-1];
-                x=canbe[i-1];
-                y=canbe[i];
-            }
-        }
-        return {x,y};
+        return {anx,any};
     }
 };
