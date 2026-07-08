@@ -1,47 +1,44 @@
 class SegmentTree{
     public:
-    vector<int> tree;//tree that we are gonna work on - our deary lil segment tree
+    vector<int> tree;
     SegmentTree(int n){
-        tree.resize(4*n,0);//giving it size and initial value
+        tree.resize(4*n,0);
     }
-    // we are going to build the initial tree on which all the queries will be done on.
-    //              0           0       n-1            nums
-    void build(int index, int left,int right, vector<int> &nums){
-        // index is used for tree
-        if(left==right){//we have reached the leaf node, we will assign it value from nums array
-            tree[index]=nums[left];// left==right, are same so it doesnt matter, which we use
+    void build(int index,int left, int right, vector<int>& nums){
+        if(left==right){
+            tree[index]=nums[left];
             return;
         }
-        int mid = (left+right)>>1;//the right shift operator divides it by 2 dumbass!!
+        int mid = (left+right)>>1;
         build(2*index+1,left,mid,nums);
         build(2*index+2,mid+1,right,nums);
         tree[index]=tree[2*index+1]+tree[2*index+2];
     }
-    void update(int i,int index,int left,int right,int val){
-        if(left==right){
+    void update(int i, int val, int index,int left,int right){
+        if(left == right){
             tree[index]=val;
             return;
         }
-        int mid=(left+right)>>1;
+        int mid =(left+right)>>1;
         if(i<=mid){
-            update(i,2*index+1,left,mid,val);
+            update(i,val,2*index+1,left,mid);
         }else{
-            update(i,2*index+2,mid+1,right,val);
+            update(i,val,2*index+2,mid+1,right);
         }
         tree[index]=tree[2*index+1]+tree[2*index+2];
     }
-    int query(int ql,int qr,int index, int left, int right){
+    int  query(int ql,int qr,int index, int left,int right){
         // no overlap
         if(right<ql || left>qr){
             return 0;
         }
         // full overlap
-        if(left>=ql && right<=qr){
+        if(right<=qr && left>=ql){
             return tree[index];
         }
-        // partial overlap
-        int mid = (left+right)>>1;
-        return query(ql,qr,2*index+1,left,mid)+query(ql,qr,2*index+2,mid+1,right);
+        //partial overlap
+        int mid = (right+left)>>1;
+        return query(ql,qr,2*index+1,left,mid)+query(ql,qr,2*index+2,mid+1, right);
     }
 };
 class NumArray {
@@ -49,14 +46,13 @@ public:
     SegmentTree* st;
     int n;
     NumArray(vector<int>& nums) {
-        int n = nums.size();
-        this->n=n;
-        st= new SegmentTree(n);
+        this->n = nums.size();
+        st = new SegmentTree(n);
         st->build(0,0,n-1,nums);
     }
     
     void update(int index, int val) {
-        st->update(index,0,0,n-1,val);
+        st->update(index,val,0,0,n-1);
     }
     
     int sumRange(int left, int right) {
