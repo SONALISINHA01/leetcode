@@ -7,7 +7,7 @@ class SegmentTree{
     void build(int left,int right,int index,vector<int> &basket){
         if(left==right){
             tree[index]=basket[left];
-            return;
+            return;//forgot
         }
         int mid = (left+right)>>1;
         build(left,mid,2*index+1,basket);
@@ -16,14 +16,14 @@ class SegmentTree{
     }
     void update(int pos,int index,int val,int left,int right){
         if(left==right){
-            tree[index]=val;
+            tree[index]=val;//wrongly used pos instead of index
             return;
         }
         int mid = (left+right)>>1;
         if(pos>mid){
-            update(pos,2*index+2,val,mid+1,right);
+            update(pos,2*index+2,val,mid+1,right);//wrong indexing of index
         }else{
-            update(pos,2*index+1,val,left,mid);
+            update(pos,2*index+1,val,left,mid);//wrong indexing of index
         }
         tree[index]=max(tree[2*index+1],tree[2*index+2]);
     }
@@ -36,7 +36,7 @@ class SegmentTree{
             return true;
         }
         int mid=(left+right)>>1;
-        if(tree[2*index+1]>=val){
+        if(tree[2*index+1]>=val){//shouldn't compare with right should compare with val
             return query(val,2*index+1,left,mid,m);
         }else{
             return query(val,2*index+2,mid+1,right,m);
@@ -53,7 +53,7 @@ public:
         int n= fruits.size();
         int ans =0;
         for(int i =0;i<n;i++){
-            if(!st.query(fruits[i],0,0,m-1,m)){
+            if(!st.query(fruits[i],0,0,m-1,m)){//st.query not query
                 ans++;
             }
         }
