@@ -1,0 +1,77 @@
+# 🚀 LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems as I progress through my Data Structures & Algorithms journey.
+
+## 📌 About
+
+- 💻 Language: **C++**
+- 📚 Platform: LeetCode
+- 🎯 Goal: Strengthen problem-solving skills and prepare for coding interviews.
+- 🔄 Repository is updated regularly as I solve new problems.
+
+## 📂 Repository Structure
+
+```
+├── Arrays/
+├── Binary Search/
+├── Binary Tree/
+├── BST/
+├── Backtracking/
+├── Dynamic Programming/
+├── Graph/
+├── Greedy/
+├── Hashing/
+├── Heap/
+├── Linked List/
+├── Math/
+├── Queue/
+├── Recursion/
+├── Sliding Window/
+├── Stack/
+├── String/
+├── Trie/
+├── Two Pointers/
+└── ...
+```
+
+Each solution includes:
+- Problem solution in **C++**
+- Clean and readable code
+- Optimized approach whenever possible
+
+## 🎯 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Hash Maps
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+- Tries
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Recursion
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Bit Manipulation
+- Math
+- And many more...
+
+## 📈 Progress
+
+I continuously update this repository as I solve more LeetCode problems and learn new algorithms.
+
+## 🤝 Contributions
+
+This repository is intended for personal learning and interview preparation. If you notice a better approach or optimization, feel free to open an issue or submit a pull request.
+
+## ⭐ If you find this repository helpful
+
+Consider giving it a ⭐ to support my learning journey.
+
+Happy Coding! 🚀
