@@ -15,7 +15,7 @@ public:
     void inorder(TreeNode* root){
         if(root==nullptr)return;
         inorder(root->left);
-        if(root!=nullptr)arr.push_back(root->val);
+        arr.push_back(root->val);
         inorder(root->right);
     }
     int kthSmallest(TreeNode* root, int k) {
