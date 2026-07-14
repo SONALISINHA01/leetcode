@@ -57,10 +57,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,13 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
