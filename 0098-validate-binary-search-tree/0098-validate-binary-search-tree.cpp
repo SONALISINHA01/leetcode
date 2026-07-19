@@ -11,14 +11,19 @@
  */
 class Solution {
 public:
-    bool validate(TreeNode* root, long long mi,long long ma){
-        if(root==nullptr)return true;
-        if(root->val <=mi || root->val>=ma){
+    bool ancestor(TreeNode* root, long long mi,long long ma){
+        if(root==nullptr){
+            return true;
+        }
+        if(root->val<=mi || root->val>=ma){
             return false;
         }
-        return validate(root->left, mi,root->val) && validate(root->right,root->val,ma);
+        return ancestor(root->left,mi,root->val) && ancestor(root->right,root->val,ma);
     }
     bool isValidBST(TreeNode* root) {
-        return validate(root, LLONG_MIN,LLONG_MAX);
+        if(root==nullptr){
+            return true;
+        }
+        return ancestor(root,LLONG_MIN,LLONG_MAX);
     }
 };
