@@ -1,38 +1,36 @@
 class Solution {
 public:
-    int dx[4]={1,-1,0,0};
+    int dx[4]={-1,1,0,0};
     int dy[4]={0,0,1,-1};
-    void dfs(vector<vector<int>>& grid,int &i,int &j){
-        int n = grid.size();
-        int m = grid.size();
+    void dfs(auto& grid,int &i,int &j,int &n){
         grid[i][j]=2;
         for(int k=0;k<4;k++){
-            int nx= i+dx[k];
-            int ny= j+dy[k];
-            if(nx>=0&&nx<n&&ny>=0&&ny<m && grid[nx][ny]==1){
-                dfs(grid,nx,ny);
+            int nx = i+dx[k];
+            int ny = j+dy[k];
+            if(nx>=0 && ny>=0 && nx<n && ny<n && grid[nx][ny] == 1){
+                dfs(grid,nx,ny,n);
             }
         }
     }
     int shortestBridge(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        bool found= false;
+        bool foundoneisland =false;
         for(int i=0;i<n;i++){
             for(int j =0;j<m;j++){
                 if(grid[i][j]==1){
-                    dfs(grid,i,j);
-                    found = true;
+                    dfs(grid,i,j,n);
+                    foundoneisland =true;
                     break;
                 }
             }
-            if(found){
+            if(foundoneisland){
                 break;
             }
         }
         queue<pair<int,int>> q;
         for(int i=0;i<n;i++){
-            for(int j =0;j<m;j++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
                     q.push({i,j});
                 }
@@ -40,18 +38,18 @@ public:
         }
         int dist=-1;
         while(!q.empty()){
-            int sz=q.size();
+            int sz = q.size();
             dist++;
             while(sz--){
-                auto[i,j]=q.front();
+                auto [i,j] = q.front();
                 q.pop();
-                for(int k=0;k<4;k++){
-                    int nx= i+dx[k];
-                    int ny= j+dy[k];
-                    if(nx>=0&&nx<n&&ny>=0&&ny<m){
-                        if(grid[nx][ny]==1){
+                for(int k =0;k<4;k++){
+                    int nx = i+dx[k];
+                    int ny = j+dy[k];
+                    if(nx>=0 && ny>=0 && nx<n && ny<n){
+                        if(grid[nx][ny] ==1){
                             return dist;
-                        }else if(grid[nx][ny]==0){
+                        }else if ( grid[nx][ny] == 0){
                             grid[nx][ny]=2;
                             q.push({nx,ny});
                         }
