@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -147,9 +149,11 @@ Happy Coding! 🚀
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
