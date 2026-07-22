@@ -73,6 +73,7 @@ Happy Coding! 🚀
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Happy Coding! 🚀
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,9 +160,11 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 <!---LeetCode Topics End-->
