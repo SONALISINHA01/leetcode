@@ -1,27 +1,40 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        if(nums.size()==0){
-            return {};
-        }
-        sort(nums.begin(),nums.end());
-        vector<int> ans;
-        int curr=nums[0];
-        int j =0,i=1;
-        while(i<nums.size()){
-            if(nums[i]!=curr){
-                int temp = nums.size()/3;
-                if(temp<(i-j)){
-                    ans.push_back(curr);
-                }
-                curr = nums[i];
-                j=i;
+        int n = nums.size();
+        int count1=0,count2=0;
+        int candi1=-1,candi2=-1;
+        for(int i=0;i<n;i++){
+            if(count1==0 && nums[i]!=candi2){
+                count1++;
+                candi1 = nums[i];
+            }else if(count2 == 0 && nums[i]!=candi1){
+                count2++;
+                candi2 = nums[i];
+            }else if(nums[i]==candi1){
+                count1++;
+            }else if(nums[i]==candi2){
+                count2++;
+            }else{
+                count1--;
+                count2--;
             }
-            i++;
         }
-        int temp = nums.size()/3;
-        if(temp<(i-j)){
-            ans.push_back(curr);
+        int freq1 = 0, freq2=0;
+        for(int i =0;i<n;i++){
+            if(candi1==nums[i]){
+                freq1++;
+            }else if(candi2 == nums[i]){
+                freq2++;
+            }
+        }
+        int req  = (n/3);
+        vector<int> ans;
+        if(freq1>req){
+            ans.push_back(candi1);
+        }
+        if(freq2>req){
+            ans.push_back(candi2);
         }
         return ans;
     }
