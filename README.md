@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -67,6 +68,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -87,6 +89,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Table
@@ -98,6 +101,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
