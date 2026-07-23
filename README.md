@@ -92,6 +92,7 @@ Happy Coding! 🚀
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -112,6 +113,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0057-insert-interval](https://github.com/SONALISINHA01/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -123,6 +125,7 @@ Happy Coding! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -133,6 +136,7 @@ Happy Coding! 🚀
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
