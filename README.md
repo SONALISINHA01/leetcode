@@ -131,6 +131,7 @@ Happy Coding! 🚀
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Greedy
@@ -144,11 +145,13 @@ Happy Coding! 🚀
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Counting
