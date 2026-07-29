@@ -2,11 +2,21 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dparr(n+1,0);
-        dparr[1]=nums[0];
-        for(int i =2;i<=n;i++){
-            dparr[i]=max(dparr[i-1], dparr[i-2]+nums[i-1]);
+        if(n==1){
+            return nums[0];
+        }else if(n==2){
+            return max(nums[0],nums[1]);
         }
-        return dparr[n];
+        vector<int> dp(n,0);
+        dp[0]=nums[0];
+        dp[1]=nums[1];
+        dp[2]=dp[0]+nums[2];
+        for(int i =3;i<n;i++){
+            dp[i] += max(dp[i-2],dp[i-3])+nums[i];
+        }
+        for(auto it:dp){
+            cout<<it<<" ";
+        }
+        return max(dp[n-2],dp[n-1]);
     }
 };
