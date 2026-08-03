@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //usedai
+
     int solve(int i, vector<int>& stoneValue, vector<int>& dp) {
         int n = stoneValue.size();
 
