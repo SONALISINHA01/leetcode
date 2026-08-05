@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Happy Coding! 🚀
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SONALISINHA01/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
