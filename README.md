@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ Happy Coding! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SONALISINHA01/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -275,4 +278,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->
