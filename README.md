@@ -149,6 +149,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0414-third-maximum-number](https://github.com/SONALISINHA01/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -172,6 +173,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0414-third-maximum-number](https://github.com/SONALISINHA01/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
