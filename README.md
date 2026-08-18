@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/SONALISINHA01/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/SONALISINHA01/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
