@@ -4,41 +4,38 @@ class SegmentTree{
     SegmentTree(int n){
         tree.resize(4*n,0);
     }
-    void build(int index,int left, int right, vector<int>& nums){
+    void build(int index, int left,int right, vector<int> &nums){
         if(left==right){
             tree[index]=nums[left];
             return;
         }
-        int mid = (left+right)>>1;
+        int mid =(left+right)>>1;
         build(2*index+1,left,mid,nums);
         build(2*index+2,mid+1,right,nums);
         tree[index]=tree[2*index+1]+tree[2*index+2];
     }
-    void update(int i, int val, int index,int left,int right){
-        if(left == right){
-            tree[index]=val;
+    void update(int index, int pos, int val, int left, int right){
+        if(right==left){
+            tree[index]= val;
             return;
         }
-        int mid =(left+right)>>1;
-        if(i<=mid){
-            update(i,val,2*index+1,left,mid);
+        int mid = (left+right)>>1;
+        if(pos<=mid){
+            update(2*index+1,pos,val,left,mid);
         }else{
-            update(i,val,2*index+2,mid+1,right);
+            update(2*index+2,pos,val,mid+1,right);
         }
         tree[index]=tree[2*index+1]+tree[2*index+2];
     }
-    int  query(int ql,int qr,int index, int left,int right){
-        // no overlap
-        if(right<ql || left>qr){
+    int sumrange(int index,int ql, int qr,int left,int right){
+        if(ql>right || qr<left){
             return 0;
         }
-        // full overlap
-        if(right<=qr && left>=ql){
+        if(ql<=left && right<=qr){
             return tree[index];
         }
-        //partial overlap
-        int mid = (right+left)>>1;
-        return query(ql,qr,2*index+1,left,mid)+query(ql,qr,2*index+2,mid+1, right);
+        int mid = (left+right)>>1;
+        return sumrange(2*index+1, ql,qr,left,mid)+sumrange(2*index+2,ql,qr, mid+1,right);
     }
 };
 class NumArray {
@@ -47,16 +44,16 @@ public:
     int n;
     NumArray(vector<int>& nums) {
         this->n = nums.size();
-        st = new SegmentTree(n);
+        st=new SegmentTree(n);
         st->build(0,0,n-1,nums);
     }
     
     void update(int index, int val) {
-        st->update(index,val,0,0,n-1);
+        st->update(0,index,val,0,n-1);
     }
     
     int sumRange(int left, int right) {
-        return st->query(left,right,0,0,n-1);
+        return st->sumrange(0,left,right,0,n-1);
     }
 };
 
