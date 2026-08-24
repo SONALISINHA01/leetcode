@@ -1,16 +1,23 @@
 class Solution {
 public:
-    int maxEnvelopes(vector<vector<int>>& envelopes) {
-        sort(envelopes.begin(),envelopes.end(),[](vector<int> &a,vector<int> &b){
-            if(a[0]==b[0])return a[1]>b[1];//this will return whichever is larger when first element is equal;
-            return a[0]<b[0];//this will return whichever is smaller
+    int maxEnvelopes(vector<vector<int>>& env) {
+        sort(env.begin(),env.end(),[](vector<int>& a, vector<int>& b){
+            if(a[0]==b[0]){
+                return a[1]>b[1];
+            }
+            return a[0]<b[0];
         });
         vector<int> lis;
-        for(auto &h:envelopes){
-            int x =h[1];
-            auto it = lower_bound(lis.begin(), lis.end(),x);
-            if(it==lis.end())lis.push_back(x);
-            else *it=x;
+        int ans = 0;
+        for(int i =0;i<env.size();i++){
+            int temp = env[i][1];
+            auto it = lower_bound(lis.begin(),lis.end(),temp);
+            if(it==lis.end()){
+                lis.push_back(temp);
+            }
+            else{
+                *it = temp;
+            }
         }
         return lis.size();
     }
