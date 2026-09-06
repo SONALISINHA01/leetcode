@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [0414-third-maximum-number](https://github.com/SONALISINHA01/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
+| [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -357,8 +359,10 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
