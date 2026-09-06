@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/SONALISINHA01/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -274,6 +275,7 @@ Happy Coding! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SONALISINHA01/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
