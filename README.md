@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Array
@@ -277,6 +278,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SONALISINHA01/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
