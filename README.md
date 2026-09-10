@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SONALISINHA01/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Happy Coding! 🚀
 | [1192-critical-connections-in-a-network](https://github.com/SONALISINHA01/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SONALISINHA01/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
@@ -102,6 +104,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SONALISINHA01/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
