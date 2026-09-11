@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SONALISINHA01/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SONALISINHA01/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SONALISINHA01/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SONALISINHA01/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SONALISINHA01/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SONALISINHA01/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -309,6 +311,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,4 +377,8 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
