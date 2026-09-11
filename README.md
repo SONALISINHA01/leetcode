@@ -274,6 +274,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SONALISINHA01/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -381,4 +382,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->
