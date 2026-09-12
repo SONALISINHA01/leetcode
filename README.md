@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SONALISINHA01/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SONALISINHA01/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Happy Coding! 🚀
 | [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SONALISINHA01/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -401,4 +404,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 <!---LeetCode Topics End-->
