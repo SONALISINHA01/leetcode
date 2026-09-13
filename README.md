@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -248,6 +249,7 @@ Happy Coding! 🚀
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
