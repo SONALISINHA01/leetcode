@@ -278,6 +278,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -407,4 +408,8 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
