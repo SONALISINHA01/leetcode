@@ -243,6 +243,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SONALISINHA01/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Monotonic Queue
@@ -288,6 +289,7 @@ Happy Coding! 🚀
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3870-count-commas-in-range](https://github.com/SONALISINHA01/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SONALISINHA01/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -304,6 +306,7 @@ Happy Coding! 🚀
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SONALISINHA01/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
