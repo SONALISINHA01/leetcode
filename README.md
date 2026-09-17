@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Binary Tree
@@ -113,6 +114,7 @@ Happy Coding! 🚀
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -151,6 +153,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Array
@@ -176,6 +179,7 @@ Happy Coding! 🚀
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -234,6 +238,7 @@ Happy Coding! 🚀
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SONALISINHA01/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
