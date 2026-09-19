@@ -109,6 +109,7 @@ Happy Coding! 🚀
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
@@ -355,6 +356,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Bridge (Graph)
@@ -438,8 +440,13 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SONALISINHA01/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
