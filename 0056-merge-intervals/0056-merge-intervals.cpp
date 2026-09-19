@@ -1,18 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& inte) {
-        sort(inte.begin(),inte.end());
+    vector<vector<int>> merge(vector<vector<int>>& inter) {
+        int n = inter.size();
         vector<vector<int>> ans;
-        int st= inte[0][0],en = inte[0][1];
-        for(int i =1;i<inte.size();i++){
-            if(inte[i][0]<=en){
-                en = max(en,inte[i][1]);
+        sort(inter.begin(),inter.end());
+        int x = inter[0][0], y= inter[0][1];
+        for(int i =1;i<n;i++){
+            if(y>=inter[i][0]){
+                x = min(x,inter[i][0]);
+                y = max(y,inter[i][1]);
             }else{
-                ans.push_back({st,en});
-                st=  inte[i][0],en=inte[i][1];
+                ans.push_back({x,y});
+                x = inter[i][0];
+                y = inter[i][1];
             }
         }
-        ans.push_back({st,en});
+        ans.push_back({x,y});
         return ans;
     }
 };
