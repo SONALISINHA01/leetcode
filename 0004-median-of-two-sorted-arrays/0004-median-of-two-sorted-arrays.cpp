@@ -1,34 +1,33 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if(nums1.size()>nums2.size()){
-            return findMedianSortedArrays(nums2,nums1);
-        }
         int n = nums1.size();
         int m = nums2.size();
-        int l=0,r=n;
-        while(l<=r){
-            int px = (l + r) / 2;
-            int py = ((m+n+1)/2)-px;
-            
-            int x1 = (px==0)?INT_MIN:nums1[px-1];
-            int x2 = (py==0)?INT_MIN:nums2[py-1];
+        if(n>m){
+            return findMedianSortedArrays(nums2,nums1);
+        }
+        int st =0,en = n;
+        while(st<=en){
+            int mid1 = st+(en-st)/2;
+            int mid2 = (n+m+1)/2-mid1;
 
-            int x3 = (px==n)?INT_MAX:nums1[px];
-            int x4 = (py==m)?INT_MAX:nums2[py];
-
-            if(x1<=x4 && x2<=x3){
-                if((m+n)%2==1){
-                    return max(x1,x2);
-                }
-                return (max(x1,x2)+min(x3,x4))/2.0;
-            }
-            if(x1>x4){
-                r =px-1;
+            int l1 = (mid1 == 0)?INT_MIN:nums1[mid1-1];
+            int l2 = (mid2 == 0)?INT_MIN:nums2[mid2-1];
+            int r1 = (mid1 == n)?INT_MAX:nums1[mid1];
+            int r2 = (mid2 == m)?INT_MAX:nums2[mid2];
+            if(l1>r2){
+                en = mid1-1;
+            }else if(l2>r1){
+                st = mid1+1;
             }else{
-                l=px+1;
+                if((m+n)%2==1){
+                    return max(l1,l2);
+                }
+                return (max(l1,l2) +min(r1,r2))/2.0;
             }
+
         }
         return 0.0;
     }
+
 };
