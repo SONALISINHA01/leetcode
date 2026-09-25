@@ -91,6 +91,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0098-validate-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/SONALISINHA01/leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -403,6 +405,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/SONALISINHA01/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
