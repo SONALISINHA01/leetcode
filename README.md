@@ -401,6 +401,7 @@ Happy Coding! 🚀
 | [0146-lru-cache](https://github.com/SONALISINHA01/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SONALISINHA01/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0707-design-linked-list](https://github.com/SONALISINHA01/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -465,6 +466,7 @@ Happy Coding! 🚀
 | [0025-reverse-nodes-in-k-group](https://github.com/SONALISINHA01/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/SONALISINHA01/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0707-design-linked-list](https://github.com/SONALISINHA01/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
