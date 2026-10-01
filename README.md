@@ -328,6 +328,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -390,6 +391,7 @@ Happy Coding! 🚀
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -495,4 +497,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
