@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -329,6 +330,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -501,4 +503,9 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
