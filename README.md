@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SONALISINHA01/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/SONALISINHA01/leetcode/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -302,6 +303,7 @@ Happy Coding! 🚀
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SONALISINHA01/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/SONALISINHA01/leetcode/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SONALISINHA01/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
