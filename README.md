@@ -369,6 +369,7 @@ Happy Coding! 🚀
 | [0183-customers-who-never-order](https://github.com/SONALISINHA01/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/SONALISINHA01/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/SONALISINHA01/leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SONALISINHA01/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/SONALISINHA01/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
