@@ -320,6 +320,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -345,6 +346,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -383,6 +385,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SONALISINHA01/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
@@ -415,6 +418,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
