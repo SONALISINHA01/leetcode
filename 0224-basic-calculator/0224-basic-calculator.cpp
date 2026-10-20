@@ -1,7 +1,7 @@
 class Solution {
 public:
     int ind=0;
-    int recur(const string& s){
+    int recur(string& s){
         int n = s.size();
         int num=0;
         bool sign = true;
