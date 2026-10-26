@@ -12,13 +12,13 @@
 class Solution {
 public:
     TreeNode* recur(int left, int right, vector<int> &nums){
-        int mid = ((right-left)/2) + left;
+        int mid = (right-left)/2 +left;
         if(right<left){
             return nullptr;
         }
-        TreeNode* root= new TreeNode(nums[mid]);
-        root->left = recur(left, mid-1, nums);
-        root->right = recur(mid+1, right, nums);
+        TreeNode* root = new TreeNode(nums[mid]);
+        root->left = recur(left, mid-1,nums);
+        root->right = recur(mid+1,right,nums);
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
