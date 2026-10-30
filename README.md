@@ -389,6 +389,7 @@ Happy Coding! 🚀
 | [0595-big-countries](https://github.com/SONALISINHA01/leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/SONALISINHA01/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/SONALISINHA01/leetcode/tree/main/0608-tree-node/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/SONALISINHA01/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
