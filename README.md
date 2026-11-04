@@ -250,6 +250,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0414-third-maximum-number](https://github.com/SONALISINHA01/leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -267,6 +268,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/SONALISINHA01/leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -433,6 +435,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Bridge (Graph)
@@ -458,6 +461,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/SONALISINHA01/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SONALISINHA01/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0707-design-linked-list](https://github.com/SONALISINHA01/leetcode/tree/main/0707-design-linked-list/) | Medium |
@@ -563,4 +567,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
