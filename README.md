@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
@@ -215,6 +216,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -261,6 +263,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SONALISINHA01/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -436,6 +439,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Bridge (Graph)
