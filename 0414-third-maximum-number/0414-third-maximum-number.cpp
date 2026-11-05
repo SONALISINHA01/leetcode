@@ -1,31 +1,18 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        long long first = -2147483649, second = -2147483649, third = -2147483649;
-        std::unordered_set<int> prevThirds;
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] >= first) {
-                if (nums[i] != first) {
-                    third = second;
-                    second = first;
-                    first = nums[i];
-                }
-            } else if (nums[i] >= second) {
-                if (nums[i] != second) {
-                    third = second;
-                    second = nums[i];
-                }
-            } else if (nums[i] >= third) {
-                if (i == nums.size() - 1 && prevThirds.contains(nums[i])) {
-                    goto here;
-                }
-                third = nums[i];
+        sort(nums.rbegin(),nums.rend());
+        int count=0;
+        int prev=INT_MIN;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]!=prev){
+                count++;
+                prev = nums[i];
+            }
+            if(count ==3){
+                return prev;
             }
         }
-        if (third == -2147483649) {
-        here:
-            return first;
-        }
-        return third;
+        return nums[0];
     }
 };
