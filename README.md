@@ -198,6 +198,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/SONALISINHA01/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/SONALISINHA01/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -343,6 +344,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/SONALISINHA01/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -443,6 +445,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/SONALISINHA01/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/SONALISINHA01/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
