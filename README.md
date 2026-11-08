@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/SONALISINHA01/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
@@ -220,6 +222,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -289,6 +292,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/SONALISINHA01/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +322,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SONALISINHA01/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
@@ -325,6 +330,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SONALISINHA01/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SONALISINHA01/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SONALISINHA01/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
