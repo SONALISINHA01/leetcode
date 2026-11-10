@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/SONALISINHA01/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
@@ -86,6 +87,7 @@ Happy Coding! 🚀
 | [0684-redundant-connection](https://github.com/SONALISINHA01/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/SONALISINHA01/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/SONALISINHA01/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -126,6 +128,7 @@ Happy Coding! 🚀
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/SONALISINHA01/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SONALISINHA01/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -191,6 +194,7 @@ Happy Coding! 🚀
 | [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/SONALISINHA01/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -605,4 +609,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/SONALISINHA01/leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
