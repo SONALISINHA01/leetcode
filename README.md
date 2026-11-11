@@ -263,6 +263,7 @@ Happy Coding! 🚀
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SONALISINHA01/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SONALISINHA01/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@ Happy Coding! 🚀
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SONALISINHA01/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SONALISINHA01/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SONALISINHA01/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/SONALISINHA01/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SONALISINHA01/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
