@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SONALISINHA01/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SONALISINHA01/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SONALISINHA01/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
