@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/SONALISINHA01/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -82,6 +83,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/SONALISINHA01/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -127,6 +129,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/SONALISINHA01/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SONALISINHA01/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -165,6 +168,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SONALISINHA01/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/SONALISINHA01/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/SONALISINHA01/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -404,6 +408,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/SONALISINHA01/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/SONALISINHA01/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -503,6 +508,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/SONALISINHA01/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SONALISINHA01/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0707-design-linked-list](https://github.com/SONALISINHA01/leetcode/tree/main/0707-design-linked-list/) | Medium |
