@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0337-house-robber-iii](https://github.com/SONALISINHA01/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0403-frog-jump](https://github.com/SONALISINHA01/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/SONALISINHA01/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -230,6 +231,7 @@ Happy Coding! 🚀
 | [0322-coin-change](https://github.com/SONALISINHA01/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SONALISINHA01/leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/SONALISINHA01/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0403-frog-jump](https://github.com/SONALISINHA01/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0414-third-maximum-number](https://github.com/SONALISINHA01/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SONALISINHA01/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
