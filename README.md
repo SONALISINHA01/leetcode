@@ -417,6 +417,7 @@ Happy Coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/SONALISINHA01/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0726-number-of-atoms](https://github.com/SONALISINHA01/leetcode/tree/main/0726-number-of-atoms/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SONALISINHA01/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SONALISINHA01/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SONALISINHA01/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
