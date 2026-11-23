@@ -245,6 +245,7 @@ Happy Coding! 🚀
 | [0934-shortest-bridge](https://github.com/SONALISINHA01/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SONALISINHA01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/SONALISINHA01/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SONALISINHA01/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SONALISINHA01/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -335,6 +336,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/SONALISINHA01/leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SONALISINHA01/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SONALISINHA01/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -389,6 +391,7 @@ Happy Coding! 🚀
 | [0836-rectangle-overlap](https://github.com/SONALISINHA01/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/SONALISINHA01/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1175-prime-arrangements](https://github.com/SONALISINHA01/leetcode/tree/main/1175-prime-arrangements/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/SONALISINHA01/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/SONALISINHA01/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SONALISINHA01/leetcode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
@@ -518,6 +521,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/SONALISINHA01/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SONALISINHA01/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0707-design-linked-list](https://github.com/SONALISINHA01/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1993-operations-on-tree](https://github.com/SONALISINHA01/leetcode/tree/main/1993-operations-on-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -625,6 +629,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SONALISINHA01/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/SONALISINHA01/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
