@@ -193,6 +193,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/SONALISINHA01/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SONALISINHA01/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/SONALISINHA01/leetcode/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SONALISINHA01/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/SONALISINHA01/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SONALISINHA01/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/SONALISINHA01/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0120-triangle](https://github.com/SONALISINHA01/leetcode/tree/main/0120-triangle/) | Medium |
 | [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/SONALISINHA01/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/SONALISINHA01/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
