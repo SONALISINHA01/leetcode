@@ -221,6 +221,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/SONALISINHA01/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SONALISINHA01/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/SONALISINHA01/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/SONALISINHA01/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SONALISINHA01/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/SONALISINHA01/leetcode/tree/main/0120-triangle/) | Medium |
 | [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -382,6 +383,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SONALISINHA01/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/SONALISINHA01/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SONALISINHA01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/SONALISINHA01/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/SONALISINHA01/leetcode/tree/main/0258-add-digits/) | Easy |
